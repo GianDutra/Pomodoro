@@ -4,18 +4,18 @@
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/GianDutra/Pomodoro?color=%2304D361">
 
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/GianDutra/Pomodoro">
- 
+
+   <a href="https://github.com/GianDutra/coffee-delivery/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/GianDutra/pomodoro">
+  </a>
+  
  <a href="https://ignite-timer-rho.vercel.app/">
     <img alt="ignite-timer" src="https://img.shields.io/badge/ignite-timer-%237159c1?style=flat&logo=ghost">
   </a>
   
-
-  <a href="https://pomodoro-giandutra.vercel.app/">
-    <img alt="Pomodoro" src="https://img.shields.io/badge/coffee-delivery-%237159c1?style=flat&logo=ghost">
-  </a>
 </p>
-<img src="./.github/1.png" alt="coffee" title="coffee">
-<img src="./.github/2.png" alt="coffee" title="coffee">
+<img src="./.github/1.png" alt="pomodoro" title="pomodoro">
+<img src="./.github/2.png" alt="pomodoro_historico" title="pomodoro_historico">
 > Projeto desenvolvido durante o Curso Ignite da trilha de ReactJS.
 
 ## Linguagens e Tecnologias usadas
@@ -45,7 +45,7 @@ Antes de começar, verifique se você possui instalado:
 * [Node.js](https://nodejs.org/en/)
 * [Git](https://git-scm.com)
 
-## 🚀 Instalando <Cofee_delivery>
+## 🚀 Instalando <Pomodoro_Timer>
 
  
 ```bash
