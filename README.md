@@ -51,7 +51,7 @@ Antes de começar, verifique se você possui instalado:
 ```bash
 
 # Clone este repositório
-$ git clone git@github.com:GianDutra/pomodoro.git
+$ git clone https://github.com/GianDutra/Pomodoro.git
 
 # Acesse a pasta do projeto no seu terminal
 $ cd Pomodoro
